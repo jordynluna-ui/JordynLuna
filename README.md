@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jordyn Luna! 👋
 
 <!--
 **jordynluna-ui/jordynluna-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Some Facts About Me:
+- Junior at Chaminade University, Majoring in Data Science
+- D2 Student-Athlete: Chaminade Women's Basketball
+- Born and Raised on Maui
+- Associate's Degree from Western Wyoming Community College
+#### Reach Me At [jordyn.luna@student.chaminade.edu](mailto:jordyn.luna@student.chaminade.edu) 
+#### Hope you have an amazing day!
